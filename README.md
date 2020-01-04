@@ -3,3 +3,4 @@
 <br /> Day 1 : basics 1
 <br /> Day 2 : lesson 5 part 1 Tensors in Pytorch 
 <br /> Day 3 : lesson 5.6-5.8, part 2 of Tensors in Pytorch
+<br /> Day 4: completed with part 2 of Tensors in Pytorch
