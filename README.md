@@ -4,4 +4,4 @@
 <br /> Day 2 : lesson 5 part 1 Tensors in Pytorch 
 <br /> Day 3 : lesson 5.6-5.8, part 2 of Tensors in Pytorch
 <br /> Day 4: completed with part 2 of Tensors in Pytorch
-<br /> Day 5: Did some practice with pandas library and started part 3 of Tensors in Pytorch
+<br /> Day 5: basic of pandas library and started part 3 of Tensors in Pytorch
