@@ -5,3 +5,5 @@
 <br /> Day 3 : lesson 5.6-5.8, part 2 of Tensors in Pytorch
 <br /> Day 4: completed with part 2 of Tensors in Pytorch
 <br /> Day 5: basic of pandas library and started part 3 of Tensors in Pytorch
+<br /> Day 6: matplotlib and lesson 5
+
