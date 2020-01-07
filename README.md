@@ -6,4 +6,4 @@
 <br /> Day 4: completed with part 2 of Tensors in Pytorch
 <br /> Day 5: basic of pandas library and started part 3 of Tensors in Pytorch
 <br /> Day 6: matplotlib and lesson 5
-
+<br /> Day7: part 3 completed, contuning lesson 5
