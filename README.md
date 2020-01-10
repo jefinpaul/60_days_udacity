@@ -10,3 +10,4 @@
 <br /> Day 8:lesson 5 continuation
 <br /> Day 9: lesson 5
 <br /> Day 10: Training MNIST with MLP (lesson 6.1-6.15)
+<br /> Day 11:Training MNIST and validation with MLP
