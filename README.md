@@ -9,3 +9,4 @@
 <br /> Day7: part 3 completed, contuning lesson 5
 <br /> Day 8:lesson 5 continuation
 <br /> Day 9: lesson 5
+<br /> Day 10: Training MNIST with MLP (lesson 6.1-6.15)
