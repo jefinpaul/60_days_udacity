@@ -12,3 +12,4 @@
 <br /> Day 10: Training MNIST with MLP (lesson 6.1-6.15)
 <br /> Day 11:Training MNIST and validation with MLP
 <br /> Day 12: convolutional neural network
+<br /> Day 13: CNN with Maxpooling
