@@ -15,3 +15,4 @@
 <br /> Day 13: CNN with Maxpooling
 <br /> Day 14: lesson 6
 <br /> Day 15: Style Transfer
+<br /> Day 16:Lesson 8
