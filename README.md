@@ -16,3 +16,5 @@
 <br /> Day 14: lesson 6
 <br /> Day 15: Style Transfer
 <br /> Day 16:Lesson 8
+<br /> Day 17:Hackerrank Code
+<br /> Day 18: CNN continuation
