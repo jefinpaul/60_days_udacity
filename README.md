@@ -17,4 +17,5 @@
 <br /> Day 15: Style Transfer
 <br /> Day 16:Lesson 8
 <br /> Day 17:Hackerrank Code
-<br /> Day 18: CNN continuation
+<br /> Day 18: RNN continuation
+<br /> Day 19: completed lesson 8
