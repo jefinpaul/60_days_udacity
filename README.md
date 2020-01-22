@@ -20,3 +20,5 @@
 <br /> Day 18: RNN continuation
 <br /> Day 19: completed lesson 8
 <br /> Day 20: Started lesson 9
+<br /> Day 21: completed lesson 9
+<br /> Day 22: worked with basic of pytorch
