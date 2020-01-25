@@ -24,4 +24,4 @@
 <br /> Day 22: worked with basic of pytorch.
 <br /> Day 23: Pytorch basic tensor
 <br /> Day 24: Lesson 5 revision
-<br /> Day 25: Mnist dataset
+<br /> Day 25: Mnist dataset, tried training the network but not supervised
