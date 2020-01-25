@@ -22,3 +22,6 @@
 <br /> Day 20: Started lesson 9
 <br /> Day 21: completed lesson 9
 <br /> Day 22: worked with basic of pytorch.
+<br /> Day 23: Pytorch basic tensor
+<br /> Day 24: Lesson 5 revision
+<br /> Day 25: Mnist dataset
