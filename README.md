@@ -27,3 +27,4 @@
 <br /> Day 25: Mnist dataset, tried training the network but not supervised
 <br /> Day 26:Trained network
 <br/>  Day 27: c++ coding practice
+<br /> Day 28: hackerank and started reviewing lesson 3
