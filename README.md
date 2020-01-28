@@ -26,3 +26,4 @@
 <br /> Day 24: Lesson 5 revision
 <br /> Day 25: Mnist dataset, tried training the network but not supervised
 <br /> Day 26:Trained network
+<br/>  Day 27: c++ coding practice
