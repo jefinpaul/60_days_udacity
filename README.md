@@ -30,3 +30,4 @@
 <br /> Day 28: hackerank and started reviewing lesson 3
 <br /> Day 29: coding in datacamp and lesson 3
 <br />Day 30: Lesson 5 continuation
+<br />Day 31: reviewing lesson 5 and datacamp coding
