@@ -31,3 +31,5 @@
 <br /> Day 29: coding in datacamp and lesson 3
 <br />Day 30: Lesson 5 continuation
 <br />Day 31: reviewing lesson 5 and datacamp coding
+<br />Day 32: reviewing lesson 6 and coding cpp
+<br />Day 33: hacker rank coding and read article on CNN
