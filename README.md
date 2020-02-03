@@ -33,3 +33,4 @@
 <br />Day 31: reviewing lesson 5 and datacamp coding
 <br />Day 32: reviewing lesson 6 and coding cpp
 <br />Day 33: hacker rank coding and read article on CNN
+<br />Day 34: Conv-visualization coding and c++ code practice
