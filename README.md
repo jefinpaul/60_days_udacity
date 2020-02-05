@@ -34,3 +34,4 @@
 <br />Day 32: reviewing lesson 6 and coding cpp
 <br />Day 33: hacker rank coding and read article on CNN
 <br />Day 34: Conv-visualization coding and c++ code practice
+<br />Day 35: CNN and read paper on SNN
