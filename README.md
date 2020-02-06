@@ -35,3 +35,5 @@
 <br />Day 33: hacker rank coding and read article on CNN
 <br />Day 34: Conv-visualization coding and c++ code practice
 <br />Day 35: CNN and read paper on SNN
+<br />Day 36: Read paper on Deep CEE and did coding practice on datacamp
+<br />Day 37: practiced coding in c++ and continued reviewing lesson 5
