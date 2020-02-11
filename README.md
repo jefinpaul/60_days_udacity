@@ -39,5 +39,6 @@
 <br />Day 37: practiced coding in c++ and continued reviewing lesson 5
 <br />Day 38: Reviewed lesson 6 and did coding on datacamp
 <br />Day 39: Style transfer
-<br />Day 40: coding on datacamp
+<br />Day 40: coding on the basic of pytorch with ML
 <br />Day 41: Fashion MNIST again 
+<br />Day 42: C++ coding and continued review course
