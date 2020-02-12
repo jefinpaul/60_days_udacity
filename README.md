@@ -42,3 +42,4 @@
 <br />Day 40: coding on the basic of pytorch with ML
 <br />Day 41: Fashion MNIST again 
 <br />Day 42: C++ coding and continued review course
+<br />Day 43: Buliding up the base (edx)
