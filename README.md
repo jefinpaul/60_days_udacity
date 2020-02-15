@@ -44,3 +44,5 @@
 <br />Day 42: C++ coding and continued review course
 <br />Day 43: Buliding up the base (edx)
 <br />Day 44: Learnt some more concept from edx course
+<br />Day 45: ML with python course
+<br />Day 46: pytorch coding review from udacity
