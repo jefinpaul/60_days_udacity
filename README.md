@@ -46,4 +46,5 @@
 <br />Day 44: Learnt some more concept from edx course
 <br />Day 45: ML with python course
 <br />Day 46: pytorch coding review from udacity
-<br />Day 47: Course review and read article
+<br />Day 47: Course review and c++ code practice
+<br />Day 48: course review, read article and c++ code practice
