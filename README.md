@@ -48,3 +48,4 @@
 <br />Day 46: pytorch coding review from udacity
 <br />Day 47: Course review and c++ code practice
 <br />Day 48: course review, read article and c++ code practice
+<br />Day 49: Inference and Validation, read article and did cpp
