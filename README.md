@@ -49,3 +49,4 @@
 <br />Day 47: Course review and c++ code practice
 <br />Day 48: course review, read article and c++ code practice
 <br />Day 49: Inference and Validation, read article and did cpp
+<br />Day 50: Did c++ coding practice and read article
