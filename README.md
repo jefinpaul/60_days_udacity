@@ -52,4 +52,7 @@
 <br />Day 50: Did c++ coding practice and read article
 <br />Day 51: Started reviewing L8
 <br />Day 52: continuing with L8
-<br />Day 53: l* review and cpp
+<br />Day 53: review and cpp
+<br />Day 54: cpp
+<br />Day 55: cpp
+<br />Day 56: RNN 
