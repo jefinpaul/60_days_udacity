@@ -57,4 +57,4 @@
 <br />Day 55: cpp
 <br />Day 56: RNN 
 <br />Day 57: RNN
-<br />Day 58: RNN
+<br />Day 58: RNN and c++
