@@ -53,10 +53,10 @@
 <br />Day 51: Started reviewing L8
 <br />Day 52: continuing with L8
 <br />Day 53: review and cpp
-<br />Day 54: cpp
-<br />Day 55: cpp
-<br />Day 56: RNN 
-<br />Day 57: RNN
-<br />Day 58: RNN and c++
+<br />Day 54: practiced cpp
+<br />Day 55: practiced cpp
+<br />Day 56: started reviewing RNN 
+<br />Day 57: continued with RNN
+<br />Day 58: continued RNN and c++
 <br />Day 59: Started reviewing sentiment RNN and practiced python
 <br />Day 60: Completed Sentiment RNN 
