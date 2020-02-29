@@ -58,3 +58,5 @@
 <br />Day 56: RNN 
 <br />Day 57: RNN
 <br />Day 58: RNN and c++
+<br />Day 59: Started reviewing sentiment RNN and practiced python
+<br />Day 60: Completed Sentiment RNN 
