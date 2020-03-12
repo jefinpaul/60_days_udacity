@@ -60,3 +60,4 @@
 <br />Day 58: continued RNN and c++
 <br />Day 59: Started reviewing sentiment RNN and practiced python
 <br />Day 60: Completed Sentiment RNN 
+<br />Day 60+: Learning java
